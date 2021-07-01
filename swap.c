@@ -21,7 +21,7 @@ arr[n]=j;
 
 }
 
-void ssort(int arr[], int l);
+void ssort(int arr[], int l)
 {
 for(int i=0;i<l;i++)
 {
